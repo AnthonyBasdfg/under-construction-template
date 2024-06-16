@@ -2,4 +2,4 @@
 Template under construction with pin
 
 
-View the demo [here.]([https://tmkamal.github.io/under-construction-template/](https://barrezueta.me/))
+View the demo [here.](https://barrezueta.me/)
