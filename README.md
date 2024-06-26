@@ -1,5 +1,5 @@
 # under-construction-template
-Responsive Website Template Under Construction with "PIN Authorization"
+Responsive Website Template Under Construction with fake PIN Authorization
 
 
 View the demo [here.](https://barrezueta.me/)
