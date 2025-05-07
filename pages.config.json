@@ -1,0 +1,10 @@
+{
+  "build": {
+    "command": "npm run build",
+    "environment": {
+      "NODE_VERSION": "15.2.4",
+      "NPM_FLAGS": "--no-frozen-lockfile"
+    },
+    "output_directory": "dist"
+  }
+}
