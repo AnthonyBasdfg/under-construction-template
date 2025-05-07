@@ -1,0 +1,10 @@
+name = "barrezueta-me"
+type = "webpack"
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+
+[site]
+bucket = ".next/static"
+entry-point = ".cloudflare/workers-site"
